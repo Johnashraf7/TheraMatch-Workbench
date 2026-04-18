@@ -9,7 +9,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "TheraMatch | AI Drug Repurposing Engine",
+  title: "ClinicaSync | AI Drug Repurposing Engine",
   description: "Computational drug repurposing platform mapping diseases to new therapeutic uses via Network Pharmacology.",
   icons: {
     icon: "/favicon.png",

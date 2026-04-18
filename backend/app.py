@@ -6,7 +6,7 @@ import networkx as nx
 import open_targets
 import pollinations
 
-app = FastAPI(title="TheraMatch API", description="Computational Drug Repurposing Engine")
+app = FastAPI(title="ClinicaSync API", description="Computational Drug Repurposing Engine")
 
 app.add_middleware(
     CORSMiddleware,
@@ -25,7 +25,7 @@ class ExplainRequest(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to TheraMatch Engine Backend"}
+    return {"message": "Welcome to ClinicaSync Engine Backend"}
 
 @app.get("/api/search")
 def search_disease(query: str):

@@ -35,7 +35,7 @@ export default function MethodologySection() {
           Analytical Foundations
         </h2>
         <p style={{ color: '#94A3B8', fontSize: '1.1rem', maxWidth: '700px', margin: '0 auto' }}>
-          Explore the biological data sources and mathematical models powering the TheraMatch engine.
+          Explore the biological data sources and mathematical models powering the ClinicaSync engine.
         </p>
       </div>
 

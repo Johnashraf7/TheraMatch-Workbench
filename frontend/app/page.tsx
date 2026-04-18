@@ -69,7 +69,7 @@ export default function Home() {
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
            <img 
              src="/molecular_logo.png" 
-             alt="TheraMatch Geometric Molecule" 
+             alt="ClinicaSync Geometric Molecule" 
              className="dynamic-logo-img"
              style={{ 
                height: '140px', 
@@ -87,7 +87,7 @@ export default function Home() {
              WebkitTextFillColor: 'transparent',
              textShadow: '0 0 40px rgba(0, 229, 255, 0.2)'
            }}>
-             TheraMatch
+             ClinicaSync
            </h1>
            <div style={{ 
              fontSize: '0.9rem', 

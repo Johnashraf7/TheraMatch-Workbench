@@ -11,7 +11,7 @@ export default function FeedbackWidget() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const recipient = "johniskros@gmail.com";
-    const subject = `[TheraMatch ${category}] From ${name || 'User'}`;
+    const subject = `[ClinicaSync ${category}] From ${name || 'User'}`;
     const body = `Name: ${name}\nCategory: ${category}\n\nMessage:\n${message}`;
     
     // The totally free, zero-infra way: mailto

@@ -1,6 +1,6 @@
-# TheraMatch: Clinical-Grade Drug Repurposing Workbench
+# ClinicaSync: Clinical-Grade Drug Repurposing Workbench
 
-TheraMatch is a high-performance bioinformatics platform designed for computational drug repurposing. It integrates multi-omics data from Open Targets and pharmacological precision from EBI ChEMBL to identify novel therapeutic indications for established compounds.
+ClinicaSync is a high-performance bioinformatics platform designed for computational drug repurposing. It integrates multi-omics data from Open Targets and pharmacological precision from EBI ChEMBL to identify novel therapeutic indications for established compounds.
 
 ## 🚀 Key Features
 

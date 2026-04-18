@@ -1,5 +1,5 @@
 ---
-title: TheraMatch API
+title: ClinicaSync API
 emoji: 🧬
 colorFrom: cyan
 colorTo: blue
@@ -8,14 +8,14 @@ app_port: 7860
 pinned: false
 ---
 
-# TheraMatch Backend API
+# ClinicaSync Backend API
 
-This is the FastAPI backend for the TheraMatch Drug Repurposing Workbench. 
+This is the FastAPI backend for the ClinicaSync Drug Repurposing Workbench. 
 
 ## Deployment Info
 - **Framework**: FastAPI
 - **Engine**: Docker
-- **Source**: Johnashraf7/TheraMatch-Workbench (backend-deploy branch)
+- **Source**: Johnashraf7/ClinicaSync-Workbench (backend-deploy branch)
 
 ## Endpoints
 - `GET /`: Health check
